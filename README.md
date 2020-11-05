@@ -6,3 +6,6 @@ I made this script to recover deleted .jpg and .png files on NTFS file systems. 
 ```
 ntfs_script.py [-h] disk_image
 ```
+
+# Notes
+Run ```pip install -r requirements.txt``` prior to running ```ntfs_script.py```
